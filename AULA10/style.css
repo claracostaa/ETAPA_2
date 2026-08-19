@@ -1,0 +1,43 @@
+body {
+    /* Nome da cor */
+    /* background-color: red; */
+
+    /*Hexadecimal */
+    background-color: #1F0062;
+
+    /*RGB */
+    /*background-color: rgb(255, 72, 133); */
+
+    /*RGB COM TRANSPARENCIA*/
+    background-color: #f8f69f;
+
+}
+
+h1 {
+    color:chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+span {
+    font-size: 2em;
+    color: rgb(142, 142, 255);
+}
+
+/* ------------------------------------------------------------ */
+/* PX (pixels) é uma unidade fixa. O tamnho sempre será o mesmo, independente 
+do tamnho da tela.  */
+
