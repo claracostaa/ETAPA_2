@@ -1,0 +1,23 @@
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: #ff0080;
+    border: 5px dashed #00ffcc;
+    padding: 20px;
+    margin: 30px;
+}
+
+.box2 {
+    /* padding: 20px; Aplica em todos os lados */
+    width: 200px;
+    height: 100px;
+    background-color: #00ffcc;
+    border: 5px dashed rgb(10, 68, 155);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 30px;
+    padding-top: 10px; /*EM CIMA */
+    padding-right: 40px; /*SÓ NA DIREITA*/
+    padding-left: 25px; /*SÓ NA ESQUERDA*/
+    padding-bottom: 20px; /*EM BAIXO*/
+}
